@@ -1,10 +1,12 @@
 # Spire-Builder-
-A casual game where you can build a tall tower using cubes. 
-This is one of my first Unity projects.
+This is one of my first Unity projects, where I studied and practiced to develop games
 The game is designed for mobile platforms.
-# Key features:
-Build the tallest spire possible, using a simple and intersting cube building system.
-Reach new heights and set new records. 
-Unlock new types of cubes.
-Observe how the environment will change because of your progress.
+A casual game where you can build a tall tower using cubes. There are key features of the game: 
+
+Building of the tallest spire  
+A simple and interesting cube building system. 
+Reaching of new heights and setting of new records. 
+Unlocking of new types of cubes.  
+Dependency between your progress and the environment. 
+A completely finished game that available for comfortable playing. 
 
